@@ -1,4 +1,4 @@
-# Workflow issue exporter
+# Issue Exporter Workflow
 
 This is independent of the GitHub Pages app. No existing Pages files or PAT
 settings need to change.
